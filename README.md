@@ -8,7 +8,7 @@ the success rate for different strategies.
 
 ## How to run
 
-Just run `python3 main.py random` to try a random stratefy or `python3 main.py loop` to try the loop strategy.
+Just run `python3 main.py random` to try a random strategy or `python3 main.py loop` to try the loop strategy.
 
 ## Command line options
 
